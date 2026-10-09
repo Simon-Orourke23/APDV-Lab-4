@@ -1,0 +1,3 @@
+Python is popular.
+Machine Learning uses data.
+Data Science involves statistics
